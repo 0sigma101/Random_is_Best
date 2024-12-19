@@ -14,7 +14,7 @@ RandomWidget is an app designed to randomly assign tasks for given hours. It hel
 
 ## Installation
 
-You can download the latest release of RandomWidget from the [Releases](https://github.com/Random_is_Best/Random_is_Best/releases) page. The executable file can be found in the `dist` folder of the latest release.
+You can download the latest release of RandomWidget from the [Releases](https://github.com/Random_is_Best/releases) page. The executable file can be found in the `dist` folder of the latest release.
 
 ## Additional Features
 - Add tasks easily through the user interface.
